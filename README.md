@@ -5,7 +5,7 @@ Do whatever you want with the code, mess around with it, piss on it, actually us
 
 The only reason this is on Github is because I'm too lazy to turn it into a website, no matter how easy it might be.
 
-If you're too lazy to use the .py file, here's a link to a hastebin of the entire code: https://www.toptal.com/developers/hastebin/cuxuqelica.apache
+If you're too lazy to use the .py file, you can find the hastebin for the text in the Releases and find a compiler.
 
 If you're still too lazy to find any of the thousands of compilers sitting around on the Internet to copy and paste that code into: https://www.online-python.com/
 
