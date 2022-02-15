@@ -1,5 +1,5 @@
 # Demonfall EXP Calculator
-###A very simple open-source Python code to calculate the EXP and bosses required to reach level 50 made by Breeze#5542 on Discord.
+### A very simple open-source Python code to calculate the EXP and bosses required to reach level 50 made by Breeze#5542 on Discord.
 
 Do whatever you want with the code, mess around with it, piss on it, actually use it to help yourself. Whatever, it literally does not matter. I spent like 3 hours on it. Just don't steal credit for it, it just makes you look really pathetic for stealing credit for a Python code comprised entirely of variables, ifs, and prints.
 
