@@ -5,8 +5,8 @@ Do whatever you want with the code, mess around with it, piss on it, actually us
 
 The only reason this is on Github is because I'm too lazy to turn it into a website, no matter how easy it might be.
 
-If you're too lazy to use the .py file, you can find the hastebin for the text in the [Releases](https://github.com/BreezeGH/dfexpcalc/releases) and find a compiler.
+Download the .py file from [Releases](https://github.com/BreezeGH/dfexpcalc/releases) and find a compiler.
 
-If you're still too lazy to find any of the thousands of compilers sitting around on the Internet to copy and paste that code into: https://www.online-python.com/
+If you're too lazy to find any of the thousands of compilers sitting around on the Internet to copy and paste that code into: https://www.online-python.com/
 
-If you are STILL too lazy to literally click like 5 buttons to copy and paste the code into a provided online compiler, it's here as well: https://replit.com/@BreezePosts/Demonfall-EXP-Calculator#main.py
+If you are still too lazy to literally click like 5 buttons to download the code into a provided online compiler, it's here as well, closest thing to a "website" that is easily accessible for you guys: https://replit.com/@BreezePosts/Demonfall-EXP-Calculator#main.py
