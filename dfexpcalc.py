@@ -3,6 +3,7 @@ usrXP = int(input("What is your XP count right now?"))
 usrPrs = int(input("What prestige are you right now (0-10)?"))
 usr20 = str(input("Are you a Kamado (write \"y\" or \"n\")?"))
 usr10 = str(input("Are you a Tokito or Ubuyashiki (write \"y\" or \"n\")?"))
+xpMod = int(input("What is the current XP modifier (1 for default)?"))
 
 if(usrLvl==1):
     baseXP = (142058-0)
@@ -116,7 +117,7 @@ elif(usr10=="y"):
 elif(usr10!="y" + usr20!="y"):
     familyXP = 0.0
 
-rqrXP = ((baseXP-usrXP)/((baseXP-usrXP)*(familyXP+(usrPrs*0.2+1)))*(baseXP-usrXP))
+rqrXP = ((baseXP-usrXP)/((baseXP-usrXP)*(xpMod + familyXP+(usrPrs*0.2+1)))*(baseXP-usrXP))
 displayXP = int(rqrXP)
 
 
